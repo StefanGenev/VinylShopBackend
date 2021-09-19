@@ -1,4 +1,4 @@
-package com.vinylshop.VinyllShop;
+package com.vinylshop.VinyllShop.controller;
 
 import com.vinylshop.VinyllShop.model.Vinyl;
 import com.vinylshop.VinyllShop.service.VinylService;
